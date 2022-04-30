@@ -1,0 +1,3 @@
+Amogos Logger 
+
+add command to log stuff idk

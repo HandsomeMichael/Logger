@@ -1,0 +1,3 @@
+displayName = Amogos Logger
+author = Lasthue or Neko
+version = 0.1
